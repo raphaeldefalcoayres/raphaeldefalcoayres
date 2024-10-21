@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Rapha Ayres 🖐️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaeldefalcoayres&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raphaeldefalcoayres&theme=dracula&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeldefalcoayres&layout=compact&langs_count=5&card_width=320&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphaeldefalcoayres&layout=compact&langs_count=5&card_width=200&theme=dracula" />
 </a>
 
 ## Tecnologias que eu uso no meu dia
